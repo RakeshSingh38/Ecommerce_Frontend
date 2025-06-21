@@ -6,7 +6,7 @@ E-commerce frontend built with React.js, Zustand, and Tailwind CSS, featuring ad
 
 ## Live Demo
 
-Check out the live demo [here](https://e-commerce-ready-apy.vercel.app/).
+Check out the live demo [here](https://ecommerce-swart-three-43.vercel.app/).
 
 ## Features
 
